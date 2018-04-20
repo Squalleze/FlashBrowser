@@ -9,6 +9,6 @@
   "author": "Vinicius Giroto",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.8.2"
+    "electron": "^1.8.3"
   }
 }
